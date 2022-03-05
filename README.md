@@ -1,5 +1,11 @@
 # Lista de Pacientes com IMC
 ***
+
+### Tecnologias utilizadas
+* JavaScript
+* HTML
+* CSS
+
 ### Ferramenta para cálculo de IMC de uma lista de pacientes para **nutricionistas**.
 
 No projeto criamos as seguintes *features*:
